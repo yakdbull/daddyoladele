@@ -10,7 +10,6 @@ body{
 .flex-container {
   display: flex;
   justify-content: center;
-  width: 100%;
 }
 
 .inner {
