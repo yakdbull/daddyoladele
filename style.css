@@ -4,6 +4,8 @@
 }
 
 .flex-container .inner {
-  padding: 5px;
-  background-color: #333;
+  padding: 15px  25px;
+  background-color: #199319;
+  color: white;
+  text-decoration: none;
 }
