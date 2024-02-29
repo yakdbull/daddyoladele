@@ -3,9 +3,12 @@
   margin: auto;
 }
 
-.flex-container .inner {
+.inner {
   padding: 15px  25px;
   background-color: #199319;
+}
+
+.inner a{
   color: white;
   text-decoration: none;
 }
