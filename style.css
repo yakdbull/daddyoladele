@@ -24,9 +24,17 @@ body{
   margin-right: 5px;
 }
 
+.inner:hover {
+  background-color: #212157; 
+}
+
 .inner a{
   color: black;
   text-decoration: none;
+}
+
+.inner a:hover{
+  color: white;
 }
 
 
